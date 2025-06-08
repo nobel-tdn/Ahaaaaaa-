@@ -1,0 +1,6 @@
+{
+  "name": "「あ」ドロップ物理ゲーム",
+  "description": "「あ」のボタンを押すと、物理演算で動く「あ」の文字が画面に追加される楽しいゲームです。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
